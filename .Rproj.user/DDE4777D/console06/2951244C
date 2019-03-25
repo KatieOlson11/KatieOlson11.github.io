@@ -1,0 +1,43 @@
+]0;~/personal_site/KatieOlson11.github.io[?1034hKaties-MacBook-010037070010:KatieOlson11.github.io katieolson$ [KKaties-MacBook-010037070010:KatieOlson11.github.io katieolson$ $ git commit -m "First commit"[K[K[K[K[K[K[K[K[K[K[K[K[Ksecond committ"
+bash: $: command not found
+]0;~/personal_site/KatieOlson11.github.ioKaties-MacBook-010037070010:KatieOlson11.github.io katieolson$ $ git commit -m "First commit"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit committ[K -m "second commit"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	[31mmodified:   README.html[m
+	[31mmodified:   _site.yml[m
+	[31mmodified:   about.Rmd[m
+	[31mmodified:   about.html[m
+	[31mmodified:   index.Rmd[m
+	[31mmodified:   index.html[m
+
+Untracked files:
+	[31m.DS_Store[m
+	[31m.Rproj.user/[m
+	[31mKatieOlson11.github.io.Rproj[m
+	[31mhead_shot.jpg[m
+	[31mstyle.css[m
+
+no changes added to commit
+]0;~/personal_site/KatieOlson11.github.io[?1034hKaties-MacBook-010037070010:KatieOlson11.github.io katieolson$ git commit -m "second commit"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	[31mmodified:   README.html[m
+	[31mmodified:   _site.yml[m
+	[31mmodified:   about.Rmd[m
+	[31mmodified:   about.html[m
+	[31mmodified:   index.Rmd[m
+	[31mmodified:   index.html[m
+
+Untracked files:
+	[31m.DS_Store[m
+	[31m.Rproj.user/[m
+	[31mKatieOlson11.github.io.Rproj[m
+	[31mhead_shot.jpg[m
+	[31mstyle.css[m
+
+no changes added to commit
+]0;~/personal_site/KatieOlson11.github.ioKaties-MacBook-010037070010:KatieOlson11.github.io katieolson$ 
