@@ -9,5 +9,3 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: flatly
-    css: bootstrap.css
