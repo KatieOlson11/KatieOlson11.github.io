@@ -1,4 +1,4 @@
-name: "katie-olson"
+name: "Katie Olson"
 output_dir: "."
 navbar:
   title: "Katie Olson"
@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
-   - text: "Contact"
+    - text: "Contact"
       href: contact.html
 output:
   html_document:
